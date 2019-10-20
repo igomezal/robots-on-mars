@@ -1,4 +1,4 @@
-# Robots in Mars
+# Robots on Mars
 
 Simple project which place robots on Mars, following certain rules:
 
