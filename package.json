@@ -1,0 +1,24 @@
+{
+  "name": "robots-on-mars",
+  "version": "1.0.0",
+  "description": "Robots travelling on Mars",
+  "main": " ",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js input.txt"
+  },
+  "keywords": [
+    "robots",
+    "challenge",
+    "code",
+    "mars"
+  ],
+  "author": "Iván Gómez Alonso",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "@types/node": "^12.11.1"
+  }
+}
